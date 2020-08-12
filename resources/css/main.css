@@ -1,3 +1,8 @@
 @tailwind base;
+
+body {
+    @apply font-sans bg-one text-white;
+}
+
 @tailwind components;
 @tailwind utilities;
